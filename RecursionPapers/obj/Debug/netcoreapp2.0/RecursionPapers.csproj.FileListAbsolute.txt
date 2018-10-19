@@ -1,0 +1,11 @@
+/Users/danmer/Desktop/RecursionPapers/RecursionPapers/bin/Debug/netcoreapp2.0/RecursionPapers.deps.json
+/Users/danmer/Desktop/RecursionPapers/RecursionPapers/bin/Debug/netcoreapp2.0/RecursionPapers.runtimeconfig.json
+/Users/danmer/Desktop/RecursionPapers/RecursionPapers/bin/Debug/netcoreapp2.0/RecursionPapers.runtimeconfig.dev.json
+/Users/danmer/Desktop/RecursionPapers/RecursionPapers/bin/Debug/netcoreapp2.0/RecursionPapers.dll
+/Users/danmer/Desktop/RecursionPapers/RecursionPapers/bin/Debug/netcoreapp2.0/RecursionPapers.pdb
+/Users/danmer/Desktop/RecursionPapers/RecursionPapers/obj/Debug/netcoreapp2.0/RecursionPapers.csprojResolveAssemblyReference.cache
+/Users/danmer/Desktop/RecursionPapers/RecursionPapers/obj/Debug/netcoreapp2.0/RecursionPapers.csproj.CoreCompileInputs.cache
+/Users/danmer/Desktop/RecursionPapers/RecursionPapers/obj/Debug/netcoreapp2.0/RecursionPapers.AssemblyInfoInputs.cache
+/Users/danmer/Desktop/RecursionPapers/RecursionPapers/obj/Debug/netcoreapp2.0/RecursionPapers.AssemblyInfo.cs
+/Users/danmer/Desktop/RecursionPapers/RecursionPapers/obj/Debug/netcoreapp2.0/RecursionPapers.dll
+/Users/danmer/Desktop/RecursionPapers/RecursionPapers/obj/Debug/netcoreapp2.0/RecursionPapers.pdb

@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83b54c06-b51e-4019-8a77-2bcf26dce27f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/RecursionPapers/RecursionOnArrays.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecursionPapers/RecursionOnNumbers.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecursionPapers/RecursionOnStrings.cs" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1631570720">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="4" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="4" />
+          <entry key="Scratch" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="9099" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="9099" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RecursionPapers/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+              <folding>
+                <marker date="1539933056425" expanded="true" signature="40:1631" ph="{...}" />
+                <marker date="1539933056425" expanded="true" signature="60:1629" ph="{...}" />
+                <marker date="1539933056425" expanded="true" signature="106:1623" ph="{...}" />
+                <marker date="1539933056425" expanded="true" signature="129:1613" ph="/* Recursion on numbers ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RecursionPapers/RecursionOnStrings.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="366">
+              <caret line="154" column="49" selection-start-line="154" selection-start-column="49" selection-end-line="154" selection-end-column="49" />
+              <folding>
+                <marker date="1539932996919" expanded="true" signature="40:5130" ph="{...}" />
+                <marker date="1539932996919" expanded="true" signature="85:5128" ph="{...}" />
+                <marker date="1539932996919" expanded="true" signature="100:226" ph="/// Prints the reversed string ... " />
+                <marker date="1539932996919" expanded="true" signature="267:645" ph="{...}" />
+                <marker date="1539932996919" expanded="true" signature="380:442" ph="{...}" />
+                <marker date="1539932996919" expanded="true" signature="459:635" ph="{...}" />
+                <marker date="1539932996919" expanded="true" signature="655:817" ph="/// Returns the length of the string ... " />
+                <marker date="1539932996919" expanded="true" signature="857:1337" ph="{...}" />
+                <marker date="1539932996919" expanded="true" signature="913:967" ph="{...}" />
+                <marker date="1539932996919" expanded="true" signature="984:1327" ph="{...}" />
+                <marker date="1539932996919" expanded="true" signature="1194:1269" ph="{...}" />
+                <marker date="1539932996919" expanded="true" signature="1347:1585" ph="/// Returns the number of times the letter c exists in the given string ... " />
+                <marker date="1539932996919" expanded="true" signature="1633:2183" ph="{...}" />
+                <marker date="1539932996919" expanded="true" signature="1695:1767" ph="{...}" />
+                <marker date="1539932996919" expanded="true" signature="1784:2173" ph="{...}" />
+                <marker date="1539932996919" expanded="true" signature="1950:2025" ph="{...}" />
+                <marker date="1539932996919" expanded="true" signature="2193:2362" ph="/// Returns if true if the given string is palindromic. ... " />
+                <marker date="1539932996919" expanded="true" signature="2403:3051" ph="{...}" />
+                <marker date="1539932996919" expanded="true" signature="2526:2583" ph="{...}" />
+                <marker date="1539932996919" expanded="true" signature="2600:3041" ph="{...}" />
+                <marker date="1539932996919" expanded="true" signature="2834:2909" ph="{...}" />
+                <marker date="1539932996919" expanded="true" signature="3061:3320" ph="/// Returns 0 if both strings are of the same length. 1 if s1 is longer. 2 if s2 is longer ... " />
+                <marker date="1539932996919" expanded="true" signature="3372:4285" ph="{...}" />
+                <marker date="1539932996919" expanded="true" signature="3457:3511" ph="{...}" />
+                <marker date="1539932996919" expanded="true" signature="3577:3631" ph="{...}" />
+                <marker date="1539932996919" expanded="true" signature="3697:3751" ph="{...}" />
+                <marker date="1539932996919" expanded="true" signature="3768:4275" ph="{...}" />
+                <marker date="1539932996919" expanded="true" signature="3970:4042" ph="{...}" />
+                <marker date="1539932996919" expanded="true" signature="4129:4201" ph="{...}" />
+                <marker date="1539932996919" expanded="true" signature="4295:4475" ph="/// Checks if all the chars in the even places are numbers ... " />
+                <marker date="1539932996919" expanded="true" signature="4516:4566" ph="{...}" />
+                <marker date="1539932996919" expanded="true" signature="4576:4765" ph="/// Encapsulated function ... " />
+                <marker date="1539932996919" expanded="true" signature="4814:5122" ph="{...}" />
+                <marker date="1539932996919" expanded="true" signature="4900:4957" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RecursionPapers/RecursionOnArrays.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="990">
+              <caret line="66" column="59" selection-start-line="66" selection-start-column="59" selection-end-line="66" selection-end-column="59" />
+              <folding>
+                <marker date="1539878058177" expanded="true" signature="40:3198" ph="{...}" />
+                <marker date="1539878058177" expanded="true" signature="84:3196" ph="{...}" />
+                <marker date="1539878058177" expanded="true" signature="99:313" ph="/// Prints the elements of the array (in descending index order) ... " />
+                <marker date="1539878058177" expanded="true" signature="368:542" ph="{...}" />
+                <marker date="1539878058177" expanded="true" signature="465:532" ph="{...}" />
+                <marker date="1539878058177" expanded="true" signature="552:766" ph="/// Returns the sum of the array ... " />
+                <marker date="1539878058177" expanded="true" signature="820:1094" ph="{...}" />
+                <marker date="1539878058177" expanded="true" signature="1104:1329" ph="/// Returns the maximal number in the array ... " />
+                <marker date="1539878058177" expanded="true" signature="1383:1677" ph="{...}" />
+                <marker date="1539878058177" expanded="true" signature="1687:1919" ph="/// Returns how many zeroes there are in the array ... " />
+                <marker date="1539878058177" expanded="true" signature="1973:2399" ph="{...}" />
+                <marker date="1539878058177" expanded="true" signature="2040:2207" ph="{...}" />
+                <marker date="1539878058177" expanded="true" signature="2409:2655" ph="/// Returns the amount of 3 digit numbers there are in the array ... " />
+                <marker date="1539878058177" expanded="true" signature="2709:3190" ph="{...}" />
+                <marker date="1539878058177" expanded="true" signature="2888:2992" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RecursionPapers/RecursionOnNumbers.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+              <folding>
+                <marker date="1539877094171" expanded="true" signature="40:5857" ph="{...}" />
+                <marker date="1539877094171" expanded="true" signature="85:5855" ph="{...}" />
+                <marker date="1539877094171" expanded="true" signature="100:231" ph="/// Prints numbers from 0 up to n ... " />
+                <marker date="1539877094171" expanded="true" signature="269:312" ph="{...}" />
+                <marker date="1539877094171" expanded="true" signature="322:533" ph="/// Encapsulated function, which prints the numbers from 0 up to n ... " />
+                <marker date="1539877094171" expanded="true" signature="579:872" ph="{...}" />
+                <marker date="1539877094171" expanded="true" signature="641:762" ph="{...}" />
+                <marker date="1539877094171" expanded="true" signature="800:862" ph="{...}" />
+                <marker date="1539877094171" expanded="true" signature="882:1064" ph="/// Returns the number of digits of the given number ... " />
+                <marker date="1539877094171" expanded="true" signature="1101:1172" ph="{...}" />
+                <marker date="1539877094171" expanded="true" signature="1182:1365" ph="/// Returns the sum of the digits of the given number ... " />
+                <marker date="1539877094171" expanded="true" signature="1402:1478" ph="{...}" />
+                <marker date="1539877094171" expanded="true" signature="1488:1686" ph="/// Returns the diff of the digits (not really sure what that means) ... " />
+                <marker date="1539877094171" expanded="true" signature="1723:1802" ph="{...}" />
+                <marker date="1539877094171" expanded="true" signature="1812:1991" ph="/// Returns the largest digit of the given number ... " />
+                <marker date="1539877094171" expanded="true" signature="2028:2113" ph="{...}" />
+                <marker date="1539877094171" expanded="true" signature="2123:2385" ph="/// Returns whether or not the digit (given by the digitInput) is in the number n. ... " />
+                <marker date="1539877094171" expanded="true" signature="2439:2654" ph="{...}" />
+                <marker date="1539877094171" expanded="true" signature="2497:2605" ph="{...}" />
+                <marker date="1539877094171" expanded="true" signature="2664:2926" ph="/// Returns how many times the digit occurred in the number n ... " />
+                <marker date="1539877094171" expanded="true" signature="2974:3345" ph="{...}" />
+                <marker date="1539877094171" expanded="true" signature="3048:3121" ph="{...}" />
+                <marker date="1539877094171" expanded="true" signature="3219:3335" ph="{...}" />
+                <marker date="1539877094171" expanded="true" signature="3355:3613" ph="/// Returns the lowest common factor (returns 1 if a factor wasn't found) ... " />
+                <marker date="1539877094171" expanded="true" signature="3659:3714" ph="{...}" />
+                <marker date="1539877094171" expanded="true" signature="3805:4324" ph="{...}" />
+                <marker date="1539877094171" expanded="true" signature="3889:4000" ph="{...}" />
+                <marker date="1539877094171" expanded="true" signature="4052:4163" ph="{...}" />
+                <marker date="1539877094171" expanded="true" signature="4334:4503" ph="/// Prints all of the factors of the given number (in descending order) ... " />
+                <marker date="1539877094171" expanded="true" signature="4541:4636" ph="{...}" />
+                <marker date="1539877094171" expanded="true" signature="4724:5065" ph="{...}" />
+                <marker date="1539877094171" expanded="true" signature="4824:5055" ph="{...}" />
+                <marker date="1539877094171" expanded="true" signature="5075:5228" ph="/// Returns true if the number is prime ... " />
+                <marker date="1539877094171" expanded="true" signature="5267:5334" ph="{...}" />
+                <marker date="1539877094171" expanded="true" signature="5344:5568" ph="/// The encapsulated function ... " />
+                <marker date="1539877094171" expanded="true" signature="5615:5849" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/RecursionPapers/RecursionOnNumbers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RecursionPapers/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RecursionPapers/RecursionOnStrings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RecursionPapers/RecursionOnArrays.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/RecursionPapers/RecursionOnNumbers.cs" />
+        <option value="$PROJECT_DIR$/RecursionPapers/RecursionOnArrays.cs" />
+        <option value="$PROJECT_DIR$/RecursionPapers/RecursionOnStrings.cs" />
+        <option value="$PROJECT_DIR$/RecursionPapers/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="53" />
+    <option name="y" value="23" />
+    <option name="width" value="1387" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/RecursionPapers/bin/Debug/netcoreapp2.0/RecursionPapers.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RecursionPapers" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/RecursionPapers/RecursionPapers.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83b54c06-b51e-4019-8a77-2bcf26dce27f" name="Default Changelist" comment="" />
+      <created>1539873371599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539873371599</updated>
+      <workItem from="1539873375697" duration="4331000" />
+      <workItem from="1539930699989" duration="2130000" />
+      <workItem from="1539932803442" duration="287000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6748000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="53" y="23" width="1387" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12639405" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3299363" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.3299363" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RecursionPapers/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+          <folding>
+            <marker date="1539933056425" expanded="true" signature="40:1631" ph="{...}" />
+            <marker date="1539933056425" expanded="true" signature="60:1629" ph="{...}" />
+            <marker date="1539933056425" expanded="true" signature="106:1623" ph="{...}" />
+            <marker date="1539933056425" expanded="true" signature="129:1613" ph="/* Recursion on numbers ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RecursionPapers/RecursionOnStrings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="154" column="49" selection-start-line="154" selection-start-column="49" selection-end-line="154" selection-end-column="49" />
+          <folding>
+            <marker date="1539932996919" expanded="true" signature="40:5130" ph="{...}" />
+            <marker date="1539932996919" expanded="true" signature="85:5128" ph="{...}" />
+            <marker date="1539932996919" expanded="true" signature="100:226" ph="/// Prints the reversed string ... " />
+            <marker date="1539932996919" expanded="true" signature="267:645" ph="{...}" />
+            <marker date="1539932996919" expanded="true" signature="380:442" ph="{...}" />
+            <marker date="1539932996919" expanded="true" signature="459:635" ph="{...}" />
+            <marker date="1539932996919" expanded="true" signature="655:817" ph="/// Returns the length of the string ... " />
+            <marker date="1539932996919" expanded="true" signature="857:1337" ph="{...}" />
+            <marker date="1539932996919" expanded="true" signature="913:967" ph="{...}" />
+            <marker date="1539932996919" expanded="true" signature="984:1327" ph="{...}" />
+            <marker date="1539932996919" expanded="true" signature="1194:1269" ph="{...}" />
+            <marker date="1539932996919" expanded="true" signature="1347:1585" ph="/// Returns the number of times the letter c exists in the given string ... " />
+            <marker date="1539932996919" expanded="true" signature="1633:2183" ph="{...}" />
+            <marker date="1539932996919" expanded="true" signature="1695:1767" ph="{...}" />
+            <marker date="1539932996919" expanded="true" signature="1784:2173" ph="{...}" />
+            <marker date="1539932996919" expanded="true" signature="1950:2025" ph="{...}" />
+            <marker date="1539932996919" expanded="true" signature="2193:2362" ph="/// Returns if true if the given string is palindromic. ... " />
+            <marker date="1539932996919" expanded="true" signature="2403:3051" ph="{...}" />
+            <marker date="1539932996919" expanded="true" signature="2526:2583" ph="{...}" />
+            <marker date="1539932996919" expanded="true" signature="2600:3041" ph="{...}" />
+            <marker date="1539932996919" expanded="true" signature="2834:2909" ph="{...}" />
+            <marker date="1539932996919" expanded="true" signature="3061:3320" ph="/// Returns 0 if both strings are of the same length. 1 if s1 is longer. 2 if s2 is longer ... " />
+            <marker date="1539932996919" expanded="true" signature="3372:4285" ph="{...}" />
+            <marker date="1539932996919" expanded="true" signature="3457:3511" ph="{...}" />
+            <marker date="1539932996919" expanded="true" signature="3577:3631" ph="{...}" />
+            <marker date="1539932996919" expanded="true" signature="3697:3751" ph="{...}" />
+            <marker date="1539932996919" expanded="true" signature="3768:4275" ph="{...}" />
+            <marker date="1539932996919" expanded="true" signature="3970:4042" ph="{...}" />
+            <marker date="1539932996919" expanded="true" signature="4129:4201" ph="{...}" />
+            <marker date="1539932996919" expanded="true" signature="4295:4475" ph="/// Checks if all the chars in the even places are numbers ... " />
+            <marker date="1539932996919" expanded="true" signature="4516:4566" ph="{...}" />
+            <marker date="1539932996919" expanded="true" signature="4576:4765" ph="/// Encapsulated function ... " />
+            <marker date="1539932996919" expanded="true" signature="4814:5122" ph="{...}" />
+            <marker date="1539932996919" expanded="true" signature="4900:4957" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RecursionPapers/RecursionOnArrays.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="66" column="59" selection-start-line="66" selection-start-column="59" selection-end-line="66" selection-end-column="59" />
+          <folding>
+            <marker date="1539878058177" expanded="true" signature="40:3198" ph="{...}" />
+            <marker date="1539878058177" expanded="true" signature="84:3196" ph="{...}" />
+            <marker date="1539878058177" expanded="true" signature="99:313" ph="/// Prints the elements of the array (in descending index order) ... " />
+            <marker date="1539878058177" expanded="true" signature="368:542" ph="{...}" />
+            <marker date="1539878058177" expanded="true" signature="465:532" ph="{...}" />
+            <marker date="1539878058177" expanded="true" signature="552:766" ph="/// Returns the sum of the array ... " />
+            <marker date="1539878058177" expanded="true" signature="820:1094" ph="{...}" />
+            <marker date="1539878058177" expanded="true" signature="1104:1329" ph="/// Returns the maximal number in the array ... " />
+            <marker date="1539878058177" expanded="true" signature="1383:1677" ph="{...}" />
+            <marker date="1539878058177" expanded="true" signature="1687:1919" ph="/// Returns how many zeroes there are in the array ... " />
+            <marker date="1539878058177" expanded="true" signature="1973:2399" ph="{...}" />
+            <marker date="1539878058177" expanded="true" signature="2040:2207" ph="{...}" />
+            <marker date="1539878058177" expanded="true" signature="2409:2655" ph="/// Returns the amount of 3 digit numbers there are in the array ... " />
+            <marker date="1539878058177" expanded="true" signature="2709:3190" ph="{...}" />
+            <marker date="1539878058177" expanded="true" signature="2888:2992" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RecursionPapers/RecursionOnNumbers.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <marker date="1539877094171" expanded="true" signature="40:5857" ph="{...}" />
+            <marker date="1539877094171" expanded="true" signature="85:5855" ph="{...}" />
+            <marker date="1539877094171" expanded="true" signature="100:231" ph="/// Prints numbers from 0 up to n ... " />
+            <marker date="1539877094171" expanded="true" signature="269:312" ph="{...}" />
+            <marker date="1539877094171" expanded="true" signature="322:533" ph="/// Encapsulated function, which prints the numbers from 0 up to n ... " />
+            <marker date="1539877094171" expanded="true" signature="579:872" ph="{...}" />
+            <marker date="1539877094171" expanded="true" signature="641:762" ph="{...}" />
+            <marker date="1539877094171" expanded="true" signature="800:862" ph="{...}" />
+            <marker date="1539877094171" expanded="true" signature="882:1064" ph="/// Returns the number of digits of the given number ... " />
+            <marker date="1539877094171" expanded="true" signature="1101:1172" ph="{...}" />
+            <marker date="1539877094171" expanded="true" signature="1182:1365" ph="/// Returns the sum of the digits of the given number ... " />
+            <marker date="1539877094171" expanded="true" signature="1402:1478" ph="{...}" />
+            <marker date="1539877094171" expanded="true" signature="1488:1686" ph="/// Returns the diff of the digits (not really sure what that means) ... " />
+            <marker date="1539877094171" expanded="true" signature="1723:1802" ph="{...}" />
+            <marker date="1539877094171" expanded="true" signature="1812:1991" ph="/// Returns the largest digit of the given number ... " />
+            <marker date="1539877094171" expanded="true" signature="2028:2113" ph="{...}" />
+            <marker date="1539877094171" expanded="true" signature="2123:2385" ph="/// Returns whether or not the digit (given by the digitInput) is in the number n. ... " />
+            <marker date="1539877094171" expanded="true" signature="2439:2654" ph="{...}" />
+            <marker date="1539877094171" expanded="true" signature="2497:2605" ph="{...}" />
+            <marker date="1539877094171" expanded="true" signature="2664:2926" ph="/// Returns how many times the digit occurred in the number n ... " />
+            <marker date="1539877094171" expanded="true" signature="2974:3345" ph="{...}" />
+            <marker date="1539877094171" expanded="true" signature="3048:3121" ph="{...}" />
+            <marker date="1539877094171" expanded="true" signature="3219:3335" ph="{...}" />
+            <marker date="1539877094171" expanded="true" signature="3355:3613" ph="/// Returns the lowest common factor (returns 1 if a factor wasn't found) ... " />
+            <marker date="1539877094171" expanded="true" signature="3659:3714" ph="{...}" />
+            <marker date="1539877094171" expanded="true" signature="3805:4324" ph="{...}" />
+            <marker date="1539877094171" expanded="true" signature="3889:4000" ph="{...}" />
+            <marker date="1539877094171" expanded="true" signature="4052:4163" ph="{...}" />
+            <marker date="1539877094171" expanded="true" signature="4334:4503" ph="/// Prints all of the factors of the given number (in descending order) ... " />
+            <marker date="1539877094171" expanded="true" signature="4541:4636" ph="{...}" />
+            <marker date="1539877094171" expanded="true" signature="4724:5065" ph="{...}" />
+            <marker date="1539877094171" expanded="true" signature="4824:5055" ph="{...}" />
+            <marker date="1539877094171" expanded="true" signature="5075:5228" ph="/// Returns true if the number is prime ... " />
+            <marker date="1539877094171" expanded="true" signature="5267:5334" ph="{...}" />
+            <marker date="1539877094171" expanded="true" signature="5344:5568" ph="/// The encapsulated function ... " />
+            <marker date="1539877094171" expanded="true" signature="5615:5849" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
